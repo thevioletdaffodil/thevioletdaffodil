@@ -4,7 +4,6 @@ I am a Machine Learning enthusiast with a background in **business process autom
 
 - 🔭 **Current Focus:** STAR Classification Machine Learning Research.
 - 🌱 **Learning:** Advanced Deep Learning architectures and Cloud Integration.
-- ⚡ **Recent Win:** Developed automated workflows that optimized manual business processes.
 
 ---
 
