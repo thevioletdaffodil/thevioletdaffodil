@@ -1,10 +1,14 @@
-## Hi there 👋
+# Ramona Singh Jain | Data Analyst & ML Researcher
 
-<!--
-**thevioletdaffodil/thevioletdaffodil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Machine Learning enthusiast with a background in **business process automation** and **data architecture**. Recent experience includes streamlining operations via the Microsoft Power Platform and conducting ML research.
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** STAR Classification Machine Learning Research.
+- 🌱 **Learning:** Advanced Deep Learning architectures and Cloud Integration.
+- ⚡ **Recent Win:** Developed automated workflows that optimized manual business processes.
 
-- 🔭 I’m currently working on STAR Classification Machine Learning Research Project
-- 🌱 I’m currently learning Machine Learning in Python
-- Connect with me on LinkedIn!
+---
+
+### 🛠 Tech Stack
+**Python** | **Power BI** | **Power Automate** | **Azure DevOps** | **SharePoint** | **SQL** 
+
+[Connect on LinkedIn](https://www.linkedin.com/in/ramona-s-ba9518288/)
