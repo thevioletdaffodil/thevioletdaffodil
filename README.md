@@ -2,8 +2,8 @@
 
 I am a Machine Learning enthusiast with a background in **business process automation** and **data architecture**. Recent experience includes streamlining operations via the Microsoft Power Platform and conducting ML research.
 
-- 🔭 **Current Focus:** STAR Classification Machine Learning Research.
-- 🌱 **Learning:** Advanced Deep Learning architectures and Cloud Integration.
+- 🔭 **Current Focus:** Blind Assistance System
+- 🌱 **Learning:** Machine Learning applications and AWS Cloud.
 
 ---
 
